@@ -1,4 +1,4 @@
-Mining apps available for download while mining at our pool
+Preconfigured mining apps available for mining in our pools
 
 Dinastycoin DCY Mining Pool: https://dcy.cryptomineros.com/
 
